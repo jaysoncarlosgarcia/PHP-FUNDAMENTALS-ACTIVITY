@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>Discriminant of a Quadratic Equation</title>
 </head>
 <body>
 <h1>Discriminant of a Quadratic Equation</h1>
